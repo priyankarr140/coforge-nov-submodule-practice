@@ -1,0 +1,6 @@
+[submodule "login"]
+	path = login
+	url = ./login
+[submodule "payment"]
+	path = payment
+	url = ./payment
